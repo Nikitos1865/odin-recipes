@@ -36,6 +36,12 @@ html {
     margin-right: auto;
 }
 
+.ingredients {
+    min-width: 300px; 
+    float: left; 
+    margin: 10px;
+}
+
 .flex-pic{
     flex-basis: 700px;
     flex-grow: 3;
